@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("RenameWithDots")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyDescription("Renames a file replacing spaces with dots. Suitable for Plex naming.")>
+<Assembly: AssemblyCompany("Simon Brookes")>
 <Assembly: AssemblyProduct("RenameWithDots")>
-<Assembly: AssemblyCopyright("Copyright ©  2018")>
+<Assembly: AssemblyCopyright("Copyright © 2018 Simon Brookes @smabuk")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
