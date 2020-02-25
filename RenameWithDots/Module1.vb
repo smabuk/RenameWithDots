@@ -30,7 +30,7 @@ Module Module1
     Private Function GetDestinationName(filename As String) As String
         Dim destinationParts As String() = filename.Split("\")
 
-        destinationParts(destinationParts.Length - 1) = destinationParts(destinationParts.Length - 1).Replace(" ", ".").Replace("..", ".")
+        destinationParts(destinationParts.Length - 1) = destinationParts(destinationParts.Length - 1).Replace(" ", ".").Replace("..", ".").Replace(".-.", ".")
 
         Return String.Join("\", destinationParts)
     End Function
