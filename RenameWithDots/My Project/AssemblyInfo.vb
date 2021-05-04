@@ -12,7 +12,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("Renames a file replacing spaces with dots. Suitable for Plex naming.")>
 <Assembly: AssemblyCompany("Simon Brookes")>
 <Assembly: AssemblyProduct("RenameWithDots")>
-<Assembly: AssemblyCopyright("Copyright © 2018 Simon Brookes @smabuk")>
+<Assembly: AssemblyCopyright("Copyright © 2018-2021 Simon Brookes @smabuk")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("2.0.0.0")>
+<Assembly: AssemblyFileVersion("2.0.0.0")>
